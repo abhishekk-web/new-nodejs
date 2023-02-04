@@ -65,7 +65,7 @@ const server = http.createServer((req, res)=> {
     res.write("<body><h1>Welcome to About Us page</h1></body>");
     res.write("</html>");
     res.end();
-    }  
+    }
 
 })
 
